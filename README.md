@@ -1,29 +1,28 @@
+<!-- Premium About Me Section -->
 <div align="center">
-
-<!-- Animated banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ritu+Raj+Prince+%F0%9F%91%8B;Mobile+%26+Full-Stack+Developer;Building+things+people+enjoy+using)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=90&section=header&text=🙋%20About%20Me&fontSize=38&fontColor=ffffff" />
 
-<br/>
+<blockquote>
+  <b>Curious Developer | Builder | Creating with Care</b>
+</blockquote>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40theriturajprince-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theriturajprince)
-[![GitHub followers](https://img.shields.io/github/followers/riturajprince?label=Follow&style=for-the-badge&logo=github&color=6C63FF)](https://github.com/riturajprince)
-
-</div>
-
----
-
-> Building things that people enjoy using — with care, clarity, and a bit of curiosity.
-
-- 🔭 Currently building: **[RRPMusic](https://github.com/riturajprince/rrpmusic)** — a feature-rich music app for Android
-- 🌱 Learning: Android development, Kotlin, Jetpack Compose
-- 👯 Open to collaborating on: mobile apps, web apps, and open-source tooling
-- 💬 Ask me about: Android, system design, backend systems, and practical dev workflows
-- 📫 Reach me: [@theriturajprince](https://instagram.com/theriturajprince) on Instagram
-- ⚡ Fun fact: I share snapshots of projects and life on Instagram
-
-<div align="center">
+<table width="100%" align="center">
+  <tr>
+    <td width="70%" align="center">
+      <br/>
+      <b>Building things that people enjoy using — with care, clarity, and a bit of curiosity.</b>
+      <ul align="left" style="list-style: none; padding:0;font-size:18px;">
+        <li>🔭 <b>Currently building:</b> <a href="https://github.com/riturajprince/rrpmusic">RRPMusic</a> & <a href="https://github.com/riturajprince/rrpvpn">RRP VPN</a></li>
+        <li>🌱 <b>Learning:</b> Android, Kotlin, Jetpack Compose</li>
+        <li>👯 <b>Open to collaborating on:</b> Mobile/web apps & open-source</li>
+        <li>💬 <b>Ask me about:</b> Android, system design, dev workflows</li>
+        <li>📫 <b>Reach me:</b> <a href="https://instagram.com/theriturajprince">@theriturajprince</a> on Instagram</li>
+        <li>⚡ <b>Fun fact:</b> I share snaps of projects & life on IG</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" />
 
