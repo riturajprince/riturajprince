@@ -15,15 +15,17 @@
 <!-- Premium About Me Section -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=90&section=header&text=🙋%20About%20Me&fontSize=38&fontColor=ffffff&desc=Curious%20Developer%20%7C%20Builder%20%7C%20Creating%20with%20Care" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=90&section=header&text=🙋%20About%20Me&fontSize=38&fontColor=ffffff" />
+
+<blockquote>
+  <b>Curious Developer | Builder | Creating with Care</b>
+</blockquote>
 
 <table width="100%" align="center">
   <tr>
     <td width="70%" align="center">
       <br/>
-      <blockquote>
-        <b>Building things that people enjoy using — with care, clarity, and a bit of curiosity.</b>
-      </blockquote>
+      <b>Building things that people enjoy using — with care, clarity, and a bit of curiosity.</b>
       <ul align="left" style="list-style: none; padding:0;font-size:18px;">
         <li>🔭 <b>Currently building:</b> <a href="https://github.com/riturajprince/rrpmusic">RRPMusic</a> & <a href="https://github.com/riturajprince/rrpvpn">RRP VPN</a></li>
         <li>🌱 <b>Learning:</b> Android, Kotlin, Jetpack Compose</li>
