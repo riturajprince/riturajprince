@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Animated banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ritu+Raj+Prince+%F0%9F%91%8B;Mobile+%26+Full-Stack+Developer;Building+things+people+enjoy+using)](https://git.io/typing-svg)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=90&section=header&text=🙋%20About%20Me&fontSize=38&fontColor=ffffff" />
 
 <br/>
