@@ -1,3 +1,10 @@
+<div align="center">
+
+<!-- Animated banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ritu+Raj+Prince+%F0%9F%91%8B;Mobile+%26+Full-Stack+Developer;Building+things+people+enjoy+using)](https://git.io/typing-svg)
+
+</div>
+
 <!-- Premium About Me Section -->
 <div align="center">
 
@@ -43,6 +50,7 @@
 | Project | Description | Links |
 |---|---|---|
 | 🎵 **RRPMusic** | Feature-rich music player app for Android | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/riturajprince/rrpmusic) [![Download](https://img.shields.io/badge/APK-Download-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/riturajprince/rrpmusic/releases) |
+| 🛡️ **RRP VPN** | High-speed, secure, and beautifully designed WireGuard VPN client for Android.<br>- Blazing Fast Speeds (WireGuard® protocol).<br>- Premium UI/UX.<br>- Live traffic/latency monitoring.<br>- Kill Switch.<br>- DNS Leak Protection.<br>- Free & Pro Data (1GB/mo free, premium unlocks unlimited).<br>- [See screenshots](https://github.com/riturajprince/rrpvpn#screenshots) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/riturajprince/rrpvpn) [![Download](https://img.shields.io/badge/APK-Download-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/riturajprince/rrpvpn/releases) |
 
 </div>
 
