@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ritu+Raj+Prince+%F0%9F%91%8B;Mobile+%26+Full-Stack+Developer;Building+things+people+enjoy+using)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ritu+Raj+Prince+%F0%9F%91%8B;Mobile+%26+Full+Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +16,9 @@
 
 > Building things that people enjoy using — with care, clarity, and a bit of curiosity.
 
-- 🔭 Currently building: **[RRPMusic](https://github.com/riturajprince/rrpmusic)** — a feature-rich music app for Android
+- 🔭 Currently building: 
+  - **[RRPMusic](https://github.com/riturajprince/rrpmusic)** — a feature-rich music app for Android
+  - **[RRP VPN](https://github.com/riturajprince/rrpvpn)** — a high-speed, secure, and beautifully designed WireGuard® VPN client for Android
 - 🌱 Learning: Android development, Kotlin, Jetpack Compose
 - 👯 Open to collaborating on: mobile apps, web apps, and open-source tooling
 - 💬 Ask me about: Android, system design, backend systems, and practical dev workflows
@@ -52,7 +54,8 @@
 
 | Project | Description | Links |
 |---|---|---|
-| 🎵 **RRPMusic** | Feature-rich music player app for Android | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/riturajprince/rrpmusic) [![Download](https://img.shields.io/badge/APK-Download-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/riturajprince/rrpmusic/releases) |
+| 🎵 **RRPMusic** | Feature-rich music player app for Android | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/riturajprince/rrpmusic) |
+| 🛡️ **RRP VPN** | High-speed, secure, and beautifully designed WireGuard® VPN client for Android. Focused on privacy, blazing fast speeds, and a premium user experience.<br>**Tech:** Kotlin, Jetpack Compose, WireGuard | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/riturajprince/rrpvpn) |
 
 </div>
 
@@ -99,3 +102,4 @@
 *Thanks for stopping by — drop a ⭐ on any project you like, or just say hi!* ✨
 
 </div>
+
