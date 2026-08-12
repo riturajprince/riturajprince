@@ -73,7 +73,7 @@
 
 <div align="center">
 
-![Contribution Graph](https://ghchart.rshah.org/6C63FF/riturajprince)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riturajprince&theme=tokyonight)
 
 </div>
 
