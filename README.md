@@ -73,7 +73,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riturajprince&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riturajprince&theme=tokyonight)
 
 </div>
 
@@ -97,4 +97,3 @@
 *Thanks for stopping by — drop a ⭐ on any project you like, or just say hi!* ✨
 
 </div>
-
