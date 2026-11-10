@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153" height="42" viewBox="0 0 153 42" role="img" aria-label="Privacy policy">
+  <defs><linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".12"/><stop offset="1" stop-color="#ffffff" stop-opacity=".015"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="152" height="41" rx="10" fill="#111317"/>
+  <rect x=".5" y=".5" width="152" height="41" rx="10" fill="url(#glass)" stroke="#f6f3f0" stroke-opacity=".2"/>
+  <g color="#c6d7ff"></g>
+  <text x="16" y="26" fill="#f6f3f0" font-family="Arial,Helvetica,sans-serif" font-size="14">Privacy policy</text><path d="M124 16h10v10m0-10-10 10" fill="none" stroke="#f6f3f0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

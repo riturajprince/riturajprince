@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="42" viewBox="0 0 125 42" role="img" aria-label="Instagram">
+  <defs><linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".12"/><stop offset="1" stop-color="#ffffff" stop-opacity=".015"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="124" height="41" rx="10" fill="#111317"/>
+  <rect x=".5" y=".5" width="124" height="41" rx="10" fill="url(#glass)" stroke="#f6f3f0" stroke-opacity=".2"/>
+  <g color="#c6d7ff"><svg x="14" y="11" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-instagram" aria-hidden="true"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"></line></svg></g>
+  <text x="44" y="26" fill="#f6f3f0" font-family="Arial,Helvetica,sans-serif" font-size="14">Instagram</text>
+</svg>
